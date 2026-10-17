@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "digital.easychat.twa",
+        "sha256_cert_fingerprints": ["9C:29:B7:97:60:8A:69:4E:5F:8A:E3:E5:B2:C8:31:EF:32:63:A5:87:15:26:46:F9:50:2D:1B:36:C2:BC:AE:58"]
+      }
+    }]
